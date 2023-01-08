@@ -16,11 +16,11 @@ and these dependencies in pom.xml
             <groupId>org.springframework.data</groupId>
             <artifactId>spring-data-mongodb</artifactId>
             <version>3.0.3.RELEASE</version>
-        </dependency>
-        <dependency>
+</dependency>
+<dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-mongodb</artifactId>
-        </dependency>
+</dependency>
 ```
 
 with these changes done, you should have a successful connection. Enjoy 😄
