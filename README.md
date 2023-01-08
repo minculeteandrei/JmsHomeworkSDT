@@ -23,5 +23,4 @@ and these dependencies in pom.xml
         </dependency>
 ```
 
-with these changes done, you should have a successful connection. Enjoy :smile
-
+with these changes done, you should have a successful connection. Enjoy 😄
